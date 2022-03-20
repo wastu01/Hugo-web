@@ -1,0 +1,7 @@
+theme = "hello-friend"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+rssFullText = true
+rssImage = "image/url/here"
+lastModDisplay = "Modified:"
